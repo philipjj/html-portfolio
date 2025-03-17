@@ -23,6 +23,10 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+.h1{
+
+text-color: #ccc;
+}
 
 #skills i {
   height: 100px;
